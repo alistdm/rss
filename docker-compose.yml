@@ -9,7 +9,7 @@ services:
     volumes:
       - ./config:/app/config
     environment:
-      - TOKEN=5556665212:AAGWTVUETH5m3cMfK-181TdbvXlTKtkozhA  # get it from @BotFather
+      - TOKEN=5522701786:AAH7MZgHMRPSPXDFIHS6D_XA66zpyjhbvYc  # get it from @BotFather
       - MANAGER=1912166062  # get it from @userinfobot
 
 # ↓------ To disable sending via Telegraph, comment out this area ------↓ #
